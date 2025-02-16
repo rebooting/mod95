@@ -13,9 +13,9 @@
   "contributes": {
       "themes": [
           {
-              "label": "rebooting",
+              "label": "Mod95",
               "uiTheme": "vs",
-              "path": "./themes/reboot-color-theme.json"
+              "path": "./themes/mod95-color-theme.json"
           }
       ]
   }

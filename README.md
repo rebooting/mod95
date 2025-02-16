@@ -15,6 +15,14 @@ to package the theme run:
 ```vsce package```
 
 
+
+# Install
+
+To install the theme, run:
+
+```code --install-extension mod95-0.0.1.vsix```
+
+
 Tips:
 
 - use F5 to open a new window with the theme applied
@@ -23,3 +31,6 @@ Tips:
 
 Theme derived from:
 https://github.com/manekinekko/windows-nt-vscode-theme
+
+this repo fixes some issues with the original theme ( git icons and Copilot icons now visible)
+```
