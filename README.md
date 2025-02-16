@@ -16,6 +16,9 @@ to package the theme run:
 
 ```vsce package```
 
+useful links:
+
+https://code.visualstudio.com/api/references/theme-color
 
 
 # Install
@@ -35,8 +38,5 @@ Theme derived from:
 https://github.com/manekinekko/windows-nt-vscode-theme
 
 this repo fixes some issues with the original theme ( git icons and Copilot icons now visible)
-```
 
-useful links:
 
-https://code.visualstudio.com/api/references/theme-color
