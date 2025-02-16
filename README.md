@@ -21,3 +21,5 @@ Tips:
 - use F1 "Developer: Inspect Editor Tokens and Scopes" to see the scopes of the current token
 - use F1 "Developer: Toggle Developer Tools" to see the console output and to check names of the scopes
 
+Theme derived from:
+https://github.com/manekinekko/windows-nt-vscode-theme

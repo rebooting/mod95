@@ -3,6 +3,7 @@
   "displayName": "mod95",
   "description": "A Windows 95-style light theme",
   "version": "0.0.1",
+  "repository": "https://github.com/rebooting/mod95.git",
   "engines": {
       "vscode": "^1.0.0"
   },
