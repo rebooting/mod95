@@ -1,0 +1,21 @@
+{
+  "name": "mod95",
+  "displayName": "mod95",
+  "description": "A Windows 95-style light theme",
+  "version": "0.0.1",
+  "engines": {
+      "vscode": "^1.0.0"
+  },
+  "categories": [
+      "Themes"
+  ],
+  "contributes": {
+      "themes": [
+          {
+              "label": "rebooting",
+              "uiTheme": "vs",
+              "path": "./themes/reboot-color-theme.json"
+          }
+      ]
+  }
+}
