@@ -3,6 +3,8 @@
 VSCode theme based on the colors of the classic Windows 95 UI.
 
 
+![alt text](image.png)
+
 # Dev
 
 
@@ -34,3 +36,7 @@ https://github.com/manekinekko/windows-nt-vscode-theme
 
 this repo fixes some issues with the original theme ( git icons and Copilot icons now visible)
 ```
+
+useful links:
+
+https://code.visualstudio.com/api/references/theme-color
