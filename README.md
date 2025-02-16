@@ -5,6 +5,16 @@ VSCode theme based on the colors of the classic Windows 95 UI.
 
 # Dev
 
+
+to install packager run:
+
+```npm install -g @vscode/vsce ```
+
+to package the theme run:
+
+```vsce package```
+
+
 Tips:
 
 - use F5 to open a new window with the theme applied
