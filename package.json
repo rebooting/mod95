@@ -5,7 +5,7 @@
   "description": "A Windows 95-style light theme",
   "publisher": "rebootingTools",
   "license": "MIT",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "repository": {
         "type": "git",
         "url": "https://github.com/rebooting/mod95.git"
