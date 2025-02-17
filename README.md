@@ -2,6 +2,12 @@
 
 VSCode theme based on the colors of the classic Windows 95 UI.
 
+Theme derived from:
+https://github.com/manekinekko/windows-nt-vscode-theme
+
+this repo fixes some issues with the original theme ( git icons and Copilot icons now visible)
+
+
 
 ![alt text](image.png)
 
@@ -34,9 +40,5 @@ Tips:
 - use F1 "Developer: Inspect Editor Tokens and Scopes" to see the scopes of the current token
 - use F1 "Developer: Toggle Developer Tools" to see the console output and to check names of the scopes
 
-Theme derived from:
-https://github.com/manekinekko/windows-nt-vscode-theme
-
-this repo fixes some issues with the original theme ( git icons and Copilot icons now visible)
 
 

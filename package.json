@@ -1,9 +1,24 @@
 {
   "name": "mod95",
-  "displayName": "mod95",
+  "displayName": "Mod95",
+  "icon": "images/icon.png",
   "description": "A Windows 95-style light theme",
-  "version": "0.0.2",
-  "repository": "https://github.com/rebooting/mod95.git",
+  "publisher": "rebootingTools",
+  "license": "MIT",
+  "version": "0.0.4",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/rebooting/mod95.git"
+    },
+  "homepage": "https://github.com/rebooting/mod95/blob/master/README.md",
+  "keywords": [
+      "theme",
+      "windows",
+      "95",
+      "retro",
+      "classic",
+      "light"
+  ],
   "engines": {
       "vscode": "^1.0.0"
   },
